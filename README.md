@@ -5,4 +5,5 @@ https://docs.google.com/spreadsheets/d/1WkUVDSHfcJu40k6OXo92SYO22sXHAS31/edit?us
 ## CLI commands to make virtual environment in VS Code
 
 python -m venv venv
+
 venv\Scripts\activate
