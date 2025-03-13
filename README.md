@@ -7,3 +7,9 @@ https://docs.google.com/spreadsheets/d/1WkUVDSHfcJu40k6OXo92SYO22sXHAS31/edit?us
 python -m venv venv
 
 venv\Scripts\activate
+
+## Quiz-1 Leadboard
+
+![image](https://github.com/user-attachments/assets/31f41265-2351-4f8f-b278-67ad0129f4bc)
+
+
