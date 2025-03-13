@@ -20,3 +20,8 @@ https://github.com/hkshitesh/GH-CP-DEMO-LAB-3
 ## Demo Lab 4 Repo Link
 
 https://github.com/hkshitesh/DEMO-LAB-4
+
+## Demo Refactor Project
+
+https://github.com/hkshitesh/DEMO-REFACTOR-LAB
+
