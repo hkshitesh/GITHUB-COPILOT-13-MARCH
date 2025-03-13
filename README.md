@@ -25,3 +25,8 @@ https://github.com/hkshitesh/DEMO-LAB-4
 
 https://github.com/hkshitesh/DEMO-FACTOR-FINAL
 
+## QUIZ-2 Leadboard
+
+![image](https://github.com/user-attachments/assets/cdf82e8c-20e8-4db5-9752-6f8594bdf0e3)
+
+
